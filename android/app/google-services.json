@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14129683112",
+    "firebase_url": "https://tranningfullter.firebaseio.com",
+    "project_id": "tranningfullter",
+    "storage_bucket": "tranningfullter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14129683112:android:7a7365ad1ce3f728e9009d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_grab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14129683112-rljr3jv8d92g6llk3n7f0fkdi305dgc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWYr4xbEMuZY-rrio7xmGMOTzHKILsXHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14129683112-rljr3jv8d92g6llk3n7f0fkdi305dgc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14129683112-6s9f23m20e8578j7n3mrg1mamgg6f160.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAppGrab",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

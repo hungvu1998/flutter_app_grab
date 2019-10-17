@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>14129683112-6s9f23m20e8578j7n3mrg1mamgg6f160.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.14129683112-6s9f23m20e8578j7n3mrg1mamgg6f160</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJCQ4Tf1NaA6_O5ndW_YXhxIeEAe8cMTg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>14129683112</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterAppGrab</string>
+	<key>PROJECT_ID</key>
+	<string>tranningfullter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tranningfullter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:14129683112:ios:321101e4cbd6dc7ee9009d</string>
+	<key>DATABASE_URL</key>
+	<string>https://tranningfullter.firebaseio.com</string>
+</dict>
+</plist>
